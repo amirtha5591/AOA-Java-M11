@@ -1,4 +1,6 @@
 
+## NAME : AMIRTHAVARSHINI.R.D
+## DATE: 27/07/26
 # EX 1B Power of 2
 
 ## AIM:
