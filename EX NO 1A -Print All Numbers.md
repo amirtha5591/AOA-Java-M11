@@ -1,4 +1,5 @@
-## NAME : AMIRTHAVARSHINI.R.D
+## DEVELOPED BY : AMIRTHAVARSHINI.R.D
+## REG NO: 212223040013
 ## DATE: 27/07/26
 # EX 1A Print All Numbers 
 
@@ -28,6 +29,7 @@ End loop and stop the program.
 ```
 /*
 Program to implement Reverse a String
+
 
 */
 
