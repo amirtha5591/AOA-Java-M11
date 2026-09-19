@@ -1,6 +1,5 @@
-
-## NAME : AMIRTHAVARSHINI.R.D
-## DATE: 27/07/26
+## DEVELOPED BY : AMIRTHAVARSHINI.R.D
+## REG NO: 212223040013
 # EX 1D Sorted Array using Divide and Conquer Approach.
 
 ## AIM:
