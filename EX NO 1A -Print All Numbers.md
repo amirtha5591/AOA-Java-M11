@@ -1,5 +1,5 @@
 ## NAME : AMIRTHAVARSHINI.R.D
-##DATE: 27/07/26
+## DATE: 27/07/26
 # EX 1A Print All Numbers 
 
 ## AIM:
